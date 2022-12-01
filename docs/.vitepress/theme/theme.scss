@@ -3,3 +3,8 @@
   --vp-c-brand-light: #4E5E78;
   --vp-c-brand-dark: #4E5E78;
 }
+
+img {
+  border-radius:.4rem;
+  border:1px solid var(--vp-c-divider-light);
+}
