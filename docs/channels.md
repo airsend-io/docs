@@ -27,14 +27,12 @@ Now you can begin sending messages, sharing files, and assigning tasks.
 
 1.  Click the members icon at the top of the channel.  
     ![](../assets/channels/as-add-member-2.png)
-2.  Click **Add New Member.  
+2.  Click **Add New Member.**
     ![](../assets/channels/as-add-new-member.png)  
-    **  
+    
     The **Share Your Channel** dialog box opens.  
     It enables you to either add users directly to your channel or to copy a link and send it to users to give them the option of joining.  
-    **  
     ![](../assets/channels/as-share-channel.png)  
-    **
 
 **To do more with members, see:**
 
