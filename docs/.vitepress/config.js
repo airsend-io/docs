@@ -59,40 +59,19 @@ export default defineConfig({
             text: 'Application',
             items: [
                {
-                  text:"Account",
+                  text:"Using AirSend",
                   items:[
                      {
-                        text:"Setting up an AirSend account",
-                        link:"/account/setting-up-an-airsend-account"
+                        text:"AirSend Dashboard",
+                        link:"/using-airsend/airsend-dashboard"
                      },
                      {
-                        text:"Settings in AirSend",
-                        link:"/account/settings-in-airsend"
+                        text:"Search in AirSend",
+                        link:"/using-airsend/search-in-airsend"
                      },
                      {
-                        text:"Multiple Language Support",
-                        link:"/account/multiple-language-support"
-                     },
-                     {
-                        text:"Deleting Your Account",
-                        link:"/account/deleting-your-account"
-                     }
-                  ]
-               },
-               {
-                  text:"Actions",
-                  items:[
-                     {
-                        text:"Actions in AirSend",
-                        link:"/actions/intro"
-                     },
-                     {
-                        text:"Processing actions in a channel",
-                        link:"/actions/processing-actions-in-a-channel"
-                     },
-                     {
-                        text:"Creating actions from messages",
-                        link:"/actions/creating-actions-from-messages"
+                        text:"Changing notification settings",
+                        link:"/using-airsend/changing-notification-settings"
                      }
                   ]
                },
@@ -142,94 +121,6 @@ export default defineConfig({
                      {
                         text:"Reopening a closed channel",
                         link:"/channels/reopening-a-closed-channel"
-                     }
-                  ]
-               },
-               {
-                  text:"Commands and shortcuts",
-                  items:[
-                     {
-                        text:"Inline commands",
-                        link:"/commands-and-shortcuts/inline-commands"
-                     },
-                     {
-                        text:"Channel keyboard shortcuts",
-                        link:"/commands-and-shortcuts/channel-keyboard-shortcuts"
-                     }
-                  ]
-               },
-               // {
-               //    text:"Desktop and mobile apps",
-               //    items:[
-               //       {
-               //          text:"AirSend desktop app",
-               //          link:"/apps/airsend-desktop-app"
-               //       },
-               //       {
-               //          text:"AirSend on iOS",
-               //          link:"/apps/airsend-on-i-os"
-               //       },
-               //       {
-               //          text:"AirSend on Android",
-               //          link:"/apps/airsend-on-android"
-               //       }
-               //    ]
-               // },
-               {
-                  text:"Files",
-                  items:[
-                     {
-                        text:"Files in AirSend",
-                        link:"/files/intro"
-                     },
-                     {
-                        text:"Creating a Folder Structure in the Files Tab",
-                        link:"/files/creating-a-folder-structure-in-the-files-tab"
-                     },
-                     {
-                        text:"Confirming File Actions",
-                        link:"/files/confirming-file-actions"
-                     },
-                     {
-                        text:"Files view",
-                        link:"/files/files-view"
-                     },
-                     {
-                        text:"Opening Office files in AirSend",
-                        link:"/files/opening-office-files-in-airsend"
-                     },
-                     {
-                        text:"Add a File to the Files Tab",
-                        link:"/files/add-a-file-to-the-files-tab"
-                     },
-                     {
-                        text:"Add a file to a message",
-                        link:"/files/add-a-file-to-a-message"
-                     },
-                     {
-                        text:"Email a file to a channel",
-                        link:"/files/email-a-file-to-a-channel"
-                     },
-                     {
-                        text:"Managing files and folders in Files view",
-                        link:"/files/managing-files-and-folders-in-files-view"
-                     },
-                     {
-                        text:"Create Additional folders in the Files Tab",
-                        link:"/files/create-additional-folders-in-the-files-tab"
-                     }
-                  ]
-               },
-               {
-                  text:"Meetings",
-                  items:[
-                     {
-                        text:"Meeting in AirSend",
-                        link:"/meetings/intro"
-                     },
-                     {
-                        text:"Changing a Meeting from Private to Public",
-                        link:"/meetings/changing-a-meeting-from-private-to-public"
                      }
                   ]
                },
@@ -284,19 +175,64 @@ export default defineConfig({
                   ]
                },
                {
-                  text:"Using AirSend",
+                  text:"Actions",
                   items:[
                      {
-                        text:"AirSend Dashboard",
-                        link:"/using-airsend/airsend-dashboard"
+                        text:"Actions in AirSend",
+                        link:"/actions/intro"
                      },
                      {
-                        text:"Search in AirSend",
-                        link:"/using-airsend/search-in-airsend"
+                        text:"Processing actions in a channel",
+                        link:"/actions/processing-actions-in-a-channel"
                      },
                      {
-                        text:"Changing notification settings",
-                        link:"/using-airsend/changing-notification-settings"
+                        text:"Creating actions from messages",
+                        link:"/actions/creating-actions-from-messages"
+                     }
+                  ]
+               },
+               {
+                  text:"Files",
+                  items:[
+                     {
+                        text:"Files in AirSend",
+                        link:"/files/intro"
+                     },
+                     {
+                        text:"Creating a Folder Structure in the Files Tab",
+                        link:"/files/creating-a-folder-structure-in-the-files-tab"
+                     },
+                     {
+                        text:"Confirming File Actions",
+                        link:"/files/confirming-file-actions"
+                     },
+                     {
+                        text:"Files view",
+                        link:"/files/files-view"
+                     },
+                     {
+                        text:"Opening Office files in AirSend",
+                        link:"/files/opening-office-files-in-airsend"
+                     },
+                     {
+                        text:"Add a File to the Files Tab",
+                        link:"/files/add-a-file-to-the-files-tab"
+                     },
+                     {
+                        text:"Add a file to a message",
+                        link:"/files/add-a-file-to-a-message"
+                     },
+                     {
+                        text:"Email a file to a channel",
+                        link:"/files/email-a-file-to-a-channel"
+                     },
+                     {
+                        text:"Managing files and folders in Files view",
+                        link:"/files/managing-files-and-folders-in-files-view"
+                     },
+                     {
+                        text:"Create Additional folders in the Files Tab",
+                        link:"/files/create-additional-folders-in-the-files-tab"
                      }
                   ]
                },
@@ -340,7 +276,71 @@ export default defineConfig({
                         link:"/wiki/formatting-wiki-content"
                      }
                   ]
-               }
+               },
+               {
+                  text:"Meetings",
+                  items:[
+                     {
+                        text:"Meeting in AirSend",
+                        link:"/meetings/intro"
+                     },
+                     {
+                        text:"Changing a Meeting from Private to Public",
+                        link:"/meetings/changing-a-meeting-from-private-to-public"
+                     }
+                  ]
+               },
+               {
+                  text:"Account",
+                  items:[
+                     {
+                        text:"Setting up an AirSend account",
+                        link:"/account/setting-up-an-airsend-account"
+                     },
+                     {
+                        text:"Settings in AirSend",
+                        link:"/account/settings-in-airsend"
+                     },
+                     {
+                        text:"Multiple Language Support",
+                        link:"/account/multiple-language-support"
+                     },
+                     {
+                        text:"Deleting Your Account",
+                        link:"/account/deleting-your-account"
+                     }
+                  ]
+               },
+               {
+                  text:"Commands and shortcuts",
+                  items:[
+                     {
+                        text:"Inline commands",
+                        link:"/commands-and-shortcuts/inline-commands"
+                     },
+                     {
+                        text:"Channel keyboard shortcuts",
+                        link:"/commands-and-shortcuts/channel-keyboard-shortcuts"
+                     }
+                  ]
+               },
+               // {
+               //    text:"Desktop and mobile apps",
+               //    items:[
+               //       {
+               //          text:"AirSend desktop app",
+               //          link:"/apps/airsend-desktop-app"
+               //       },
+               //       {
+               //          text:"AirSend on iOS",
+               //          link:"/apps/airsend-on-i-os"
+               //       },
+               //       {
+               //          text:"AirSend on Android",
+               //          link:"/apps/airsend-on-android"
+               //       }
+               //    ]
+               // },
             ]
          },
       ],
