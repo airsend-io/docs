@@ -18,7 +18,7 @@ Files view displays all of your AirSend files, including the files added to chan
     Files view opens. It displays the folders **My Files**, which stores files for channels that you have created and files that you are storing outside channels, and **Shared Channels**, which stores files for channels that you have not created but are a member of.   
     ![My Files folders My Files and Shared Channels](../assets/files/files-view/my-files-folders-my-files-and-shared-channels.png) 
 
-### My Files
+## My Files
 
 Click the **My Files** folder to view folders for each channel that you have created, a folder for files that you have deleted, and any files or folders that you have added to My Files directly in this screen, outside of any channels.   
 ![](../assets/files/files-view/as-my-files.png) To view your channel folders, click the **Channels** folder.  
@@ -32,7 +32,7 @@ The **files** folder and **wiki** folder correspond to the Files tab and Wiki t
 
 To add, move, upload and delete files and folders from **My Folders**, see [Managing files and folders in Files view](/files/managing-files-and-folders-in-files-view)
 
-### Shared Channels
+## Shared Channels
 
 Click the **Shared Channels** folder to view folders for each channel that you have been added to by another user.  
 ![Folders in Shared Channels folder](../assets/files/files-view/folders-in-shared-channels-folder.png)  

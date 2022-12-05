@@ -10,4 +10,30 @@ When you sign in to AirSend, the first screen that opens is the AirSend dashboar
 
 The first time you log in to AirSend, your dashboard looks like this:
 
-<table><colgroup><col><col></colgroup><tbody><tr><td><div><p><span><img src="../assets/using-airsend/airsend-dashboard/air-send-dashboard.png"></span></p></div></td><td><div><ol><li><strong>Triple-bar icon</strong> - Click this icon to open the dashboard side navigation panel:<br><span><img src="../assets/using-airsend/airsend-dashboard/dashboard-navigation-panel.png"></span><br>This panel displays the links&nbsp;<strong>Channels,</strong><strong>Files</strong>, and <strong>Actions</strong>. When <strong>Channels</strong> is clicked, the Dashboard view to the left, which displays boxes with each of the user's channels, appears.<br><br>When <strong>Files</strong> is clicked, <a href="/files/files-view">Files view</a> for all channels opens:<br><span><img src="../assets/using-airsend/airsend-dashboard/as-files-view.png"></span><br><br>When <strong>Actions</strong> is clicked, <a href="/actions/intro">Actions view</a> for all actions opens:<br><span><img src="../assets/using-airsend/airsend-dashboard/as-actions-view.png"></span><br><br></li><li><strong>Search box</strong>. Enter a search term to locate matching content in channels, messages, actions, files, and users. See&nbsp;<a href="/using-airsend/search-in-airsend">Search in AirSend</a>.</li><li><strong>Notifications</strong><span>. This icon displays the number of unread notifications. Clicking it displays the notifications. See<span>&nbsp;</span></span><a href="/notifications">Notifications&nbsp;in AirSend</a><span>.</span></li><li><span><strong>User</strong><span>&nbsp;</span>signed in to the channel, in this case,&nbsp;<strong>Jessica M</strong>. Click the down arrow to see a user menu. For more information, see<span>&nbsp;<a href="/account/settings-in-airsend">Settings in AirSend</a></span>.</span></li><li><span><strong>Channels</strong>. Appears if the user is a member of at least one channel. Choices are:</span><ul><li><strong><span>Show All</span></strong></li><li><span><strong>Show Active</strong> (default)</span></li><li><strong><span>Show Closed</span></strong></li></ul></li><li><strong><span>Sort by - </span></strong><span>Appears if the user is a&nbsp; member of at least one channel. Options for sorting channels on the dashboard. Choices are:</span><ul><li><span><strong>Most recently active</strong> (default)</span></li><li><strong><span>Least recently active</span></strong></li><li><strong><span>New channels</span></strong></li><li><strong><span>Old channels</span></strong></li></ul></li><li><strong><span>Create New Channel </span></strong><span>- Click this image to <a href="/channels/creating-a-channel">create a new channel</a>.</span></li><li><span><strong>Channel</strong> - Each channel is represented by a card that displays number of members, number of attached files, and last update date/time, Click the More options icon (3 dots) to perform channel actions such as delete, close, and copy. For more information, see&nbsp;<a href="/channels/channel-settings-for-a-channel-owner">Channel settings for a channel owner</a>.</span></li></ol></div></td></tr></tbody></table>
+<img src="../assets/using-airsend/airsend-dashboard/air-send-dashboard.png">
+
+1.  **Triple-bar icon** - Click this icon to open the dashboard side navigation panel:  
+    ![](../assets/using-airsend/airsend-dashboard/dashboard-navigation-panel.png)  
+    This panel displays the links **Channels**, **Files**, and **Actions**. When **Channels** is clicked, the Dashboard view to the left, which displays boxes with each of the user's channels, appears.  
+      
+    When **Files** is clicked, [Files view](/files/files-view) for all channels opens:  
+    ![](../assets/using-airsend/airsend-dashboard/as-files-view.png)  
+      
+    When **Actions** is clicked, [Actions view](/actions/intro) for all actions opens:  
+    ![](../assets/using-airsend/airsend-dashboard/as-actions-view.png)  
+      
+    
+2.  **Search box**. Enter a search term to locate matching content in channels, messages, actions, files, and users. See [Search in AirSend](/using-airsend/search-in-airsend).
+3.  **Notifications**. This icon displays the number of unread notifications. Clicking it displays the notifications. See [Notifications in AirSend](/notifications).
+4.  **User** signed in to the channel, in this case, **Jessica M**. Click the down arrow to see a user menu. For more information, see [Settings in AirSend](/account/settings-in-airsend).
+5.  **Channels**. Appears if the user is a member of at least one channel. Choices are:
+    *   **Show All**
+    *   **Show Active** (default)
+    *   **Show Closed**
+6.  **Sort by -** Appears if the user is a  member of at least one channel. Options for sorting channels on the dashboard. Choices are:
+    *   **Most recently active** (default)
+    *   **Least recently active**
+    *   **New channels**
+    *   **Old channels**
+7.  **Create New Channel** \- Click this image to [create a new channel](/channels/creating-a-channel).
+8.  **Channel** - Each channel is represented by a card that displays number of members, number of attached files, and last update date/time, Click the More options icon (3 dots) to perform channel actions such as delete, close, and copy. For more information, see [Channel settings for a channel owner](/channels/channel-settings-for-a-channel-owner).

@@ -253,10 +253,6 @@ export default defineConfig({
                         link:"/members/removing-a-member-from-a-channel"
                      },
                      {
-                        text:"Teams in AirSend",
-                        link:"/members/teams-in-airsend"
-                     },
-                     {
                         text:"Approving members",
                         link:"/members/approving-members"
                      },
@@ -308,7 +304,7 @@ export default defineConfig({
                   text:"Wiki",
                   items:[
                      {
-                        text:"Wiki: Displaying Important Information",
+                        text:"Displaying Important Information",
                         link:"/wiki/intro"
                      },
                      {

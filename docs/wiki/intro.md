@@ -33,5 +33,3 @@ Channel members with contributor access or higher can add content to wikis in no
     ![](../assets/wiki/intro/as-wiki-annotated.png)  
     The content appears in the wiki:  
     ![](../assets/wiki/intro/as-wiki-content.png)  
-      
-    Also see:

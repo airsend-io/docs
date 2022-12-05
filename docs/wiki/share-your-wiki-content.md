@@ -4,7 +4,7 @@ lang: en-US
 
 # Share Your Wiki Content
 
-### To share the link to your wiki content
+## To share the link to your wiki content
 
 If you want to be sure that users see or remember the information in your wiki, you can share the link to your wiki file outside of AirSend.
 
@@ -22,7 +22,7 @@ If you want to be sure that users see or remember the information in your wiki, 
     When a user clicks the link, a page for downloading the wiki file opens. The user does not have to have an AirSend account to download the file.  
     ![Page for downloading wiki md file.](../assets/wiki/share-your-wiki-content/page-for-downloading-wiki-md-file.png)
 
-### To delete the link to your wiki content
+## To delete the link to your wiki content
 
 If you no longer want users to be able to access the content in the link, delete it.
 

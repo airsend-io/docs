@@ -7,26 +7,26 @@ lang: en-US
 ### Uploading files to channel folders
 
 1.  [Open Files view](/files/files-view).
-2.  Navigate to the folder for the channel that will store the file in **My Files** or in **Shared Channels.  
-    **If you want to be able to see the file in one of the tabs for the channel, you must add it to the **files** or **wiki** folder. Otherwise, you will only be able to access the file by navigating back to Files view.
+2.  Navigate to the folder for the channel that will store the file in **My Files** or in **Shared Channels**.
     
-    **![](../assets/files/managing-files-and-folders-in-files-view/as-add-file-to-channel.png)  
-    **For information about the file structure in Files View, see [Files view](/files/files-view).
+    If you want to be able to see the file in one of the tabs for the channel, you must add it to the **files** or **wiki** folder. Otherwise, you will only be able to access the file by navigating back to Files view.
+    
+    ![](../assets/files/managing-files-and-folders-in-files-view/as-add-file-to-channel.png)  
+    For information about the file structure in Files View, see [Files view](/files/files-view).
     
 3.  Drag and drop the file onto the files or wiki folder or one of their subfolders,  
-    or  
-    click **Upload File** and select a file or drag and drop a file over the main section of the screen.**  
+    or click **Upload File** and select a file or drag and drop a file over the main section of the screen.
     ![](../assets/files/managing-files-and-folders-in-files-view/as-add-file.png)  
       
-    **The file is uploaded to the folder and appears in the main section of the screen, which displays the contents of the folder.  
-    **![](../assets/files/managing-files-and-folders-in-files-view/as-uploaded.png)  
+    The file is uploaded to the folder and appears in the main section of the screen, which displays the contents of the folder.  
+    ![](../assets/files/managing-files-and-folders-in-files-view/as-uploaded.png)  
       
-    **If you leave Files view and open the channel, you can see the file in the Files and Links tab when you click the Files sub-tab or, if you added it to the Wiki folder, when you edit the wiki.  
+    If you leave Files view and open the channel, you can see the file in the Files and Links tab when you click the Files sub-tab or, if you added it to the Wiki folder, when you edit the wiki.  
     ![](../assets/files/managing-files-and-folders-in-files-view/as-added-to-files.png)
 
   
 
-### Moving files and folders
+## Moving files and folders
 
 You can move a file or folder in AirSend into another folder.
 
@@ -46,7 +46,7 @@ You can move a file or folder in AirSend into another folder.
     The file or folder is moved into the new location.  
     ![](../assets/files/managing-files-and-folders-in-files-view/as-new-location.png)
 
-### Downloading files and folders
+## Downloading files and folders
 
 You can download both files and folders in AirSend. When you download a folder, the folder and its contents are downloaded in zip format.
 
@@ -63,7 +63,7 @@ or:
       
     
 
-### Adding subfolders
+## Adding subfolders
 
 You can add sub-folders anywhere within the **My Files** or **Channels** folders.
 
@@ -79,10 +79,7 @@ You can add sub-folders anywhere within the **My Files** or **Channels** folders
     The new sub-folder is created.  
     ![](../assets/files/managing-files-and-folders-in-files-view/as-new-folder-created.png)  
     
-
-  
-
-### Deleting files and folders
+## Deleting files and folders
 
 To delete a single file or folder,  
 either:

@@ -14,6 +14,6 @@ You can add a link to an external URL in a wiki.
     The following link placeholder appears in the text editor:  
     ![](../assets/wiki/adding-a-link-to-an-external-url-in-a-wiki/as-link-format.jpg)
 5.  Overwrite **My Link** with the text for your link.
-6.  Overwrite **[https://airsend.io](/#)** with your full link address including **https://** or **http://  
-    **The link placeholder and preview of the link appear as follows:  
+6.  Overwrite **[https://airsend.io](/#)** with your full link address including **https://** or **http://**
+    The link placeholder and preview of the link appear as follows:  
     ![](../assets/wiki/adding-a-link-to-an-external-url-in-a-wiki/as-external-link.jpg)
