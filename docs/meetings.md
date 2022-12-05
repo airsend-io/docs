@@ -13,20 +13,17 @@ To begin a meeting with all members of a channel, open the channel, click the ph
 
 As soon as you start the meeting, you'll see your image on the screen with an alert that you've joined the meeting. You wil lalso see a red phone icon overlaying the channel in the channel navigation pane. As other members join the meeting, their faces will appear on the screen, and you can begin talking.
 
-![](./assets/meetings/as-meeting-anim.gif)
-
-  
-
-  
+![](./assets/meetings/as-meeting-anim.gif)  
 
 By default, meetings begin with your microphone enabled and your video disabled. 
 
 <table><colgroup><col><col></colgroup><tbody><tr><td>To mute yourself, click the microphone icon.</td><td><div><p><span><img src="./assets/meetings/as-mike-icon.png"></span></p></div></td></tr><tr><td>To turn on your video, click the video icon.</td><td><div><p><span><img src="./assets/meetings/as-video-icon.png"></span></p></div></td></tr><tr><td>To leave the meeting, click the phone icon.</td><td><div><p><span><img src="./assets/meetings/as-phone-icon-2.png"></span></p></div></td></tr><tr><td>To change your audio and video settings, get a meeting link, or download the chat of a meeting,<br>click the settings icon. An option to end the meeting also appears for channel owners and admins.</td><td><div><p><span><img src="./assets/meetings/as-settings-icon-3.png"></span></p></div></td></tr><tr><td>To share your screen, click the screen icon. A message appears at the bottom of the shared<br>screen with a link you can click to stop sharing.</td><td><div><p><span><img src="./assets/meetings/as-screen-icon.png"></span></p></div></td></tr><tr><td>To stop sharing your screen, click the <strong>Stop Sharing</strong><br>link in the message at the bottom of the screen.</td><td><div><p><span><img src="./assets/meetings/2021-02-12-12-h-44-41.png"></span></p></div></td></tr></tbody></table>
 
   
-
+::: info Quick calls?
 You can also begin a meeting by entering /call in the chat bar:  
 ![](./assets/meetings/as-call.png)
+:::
 
 ## Toggling between meeting view and message view
 
@@ -50,12 +47,12 @@ Click the link to join the meeting.
 
 A meeting moderator has some control over the actions of other members of a meeting.
 
-## Who is a meeting moderator?
+### Who is a meeting moderator?
 
 -   In a public meeting, the moderator is the user who started the call.
 -   In private (channel) meeting, a moderators are members with the roles manager, admin, and owner.
 
-## What can moderators do?:
+### What can moderators do?:
 
 When a moderator clicks the three dots (...) in the icon for a user in the lower portion of the screen, a drop-down list with possible actions opens.  
 A moderator always has the option of removing the user from the meeting. Other actions are listed depending on whether the user is using audio or video, or screen sharing, 
@@ -99,43 +96,42 @@ The content in the right panel is not automatically saved, but you can save it a
 
 ## Troubleshooting Meetings
 
-## I can’t join a meeting
+### I can’t join a meeting
 
 -   Check your computer and internet connection.
 -   Check if your firewall or antivirus is blocking the app connection.
--   Check if the meeting is expired.  
-    You should see the message:  
-    ![](./assets/meetings/as-meeting-expired.png)  
-      
-    
+-   Check if the meeting is expired. You should see the message:  
 
-## I can’t see others
+    ![](./assets/meetings/as-meeting-expired.png)  
+
+### I can’t see others
 
 -   Check if the meeting is expanded.
     
     <table><colgroup><col><col></colgroup><tbody><tr><td><div><p>When the meeting is not expanded, the expansion icon appears as:<span><img src="./assets/meetings/as-screen-not-expanded.png"></span></p></div></td><td><div><p>When the meeting is expanded, the expansion icon appears as:<br><span><img src="./assets/meetings/as-screen-expanded.png"></span></p></div></td></tr></tbody></table>
     
 
-## I can’t hear others
+### I can’t hear others
 
 -   Check if the browser tab is muted.
 -   Try to reconnect.
--   Check your output device in the **Meeting Settings.  
-    ![](./assets/meetings/as-check-output.png)**  
-      
-    
+-   Check your output device in the **Meeting Settings**.  
 
-## Others can’t hear me
+    ![](./assets/meetings/as-check-output.png)
+
+### Others can’t hear me
 
 -   Check if the browser or app has microphone permissions.  
     A message should have appeared.
 -   Check your input device in the **Meeting Settings.  
+
     ![](./assets/meetings/as-check-input.png)**  
       
     
 
-## I can’t screen share
+### I can’t screen share
 
 -   Check if the browser or app has screen sharing/recording permissions.  
     If you don’t see the screen share icon, that means your browser does not support this feature.  
+
     ![](./assets/meetings/as-screen-icon.png)

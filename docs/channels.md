@@ -52,10 +52,15 @@ When you are working within a channel in AirSend, all other channels that you ha
   
 The channel sidebar enables you to organize your channels so you can find them easily. See [Channel Sidebar: Finding Channels](/#) for help.
 
-  
+::: tip Member Types
 
 In AirSend, there are different member types. Channel creators are Owners with full privileges, and other members are Full Contributors or Viewers by default. Additional member types can be assigned to give channel users increased privileges.
 
 For more information, see [Member types](/members/member-types).
+:::
 
-If you post the channel link to make it available to all users, it is a [public channel](/#), and you may require that users request membership before joining.
+::: info Public Channels
+If you post the channel link to make it available to all users, it is a [public channel](/channels/public-channels), and you may require that users request membership before joining.
+:::
+
+

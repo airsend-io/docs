@@ -4,11 +4,15 @@ lang: en-US
 
 # The AirSend - Email connection
 
+::: info Email
 AirSend and email work together seamlessly, making it easy for you to:
 
 -   Continue to work in AirSend while you interact with channel members who don't have AirSend accounts.
 -   Receive notifications about your channels' actions when you're not logged in to AirSend.
 -   Forward email messages to an AirSend channel to keep the email content at hand or to create a task from it.
+:::
+
+
 
   
 
@@ -34,3 +38,7 @@ The message appears in the AirSend channel:
 2.  Complete the message and send it.  
     ![](./assets/email/as-msg.png)  
     In addition to appearing in the channel, the message appears in an email sent to the @ user.
+
+::: info Notifications
+By default, you receive notifications about all AirSend channel actions by email, but you can [change notification settings](/using-airsend/changing-notification-settings) to just receive notifications related to you or to turn off notifications entirely. 
+:::

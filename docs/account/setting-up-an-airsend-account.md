@@ -6,7 +6,7 @@ lang: en-US
 
 ### Open the AirSend website
 
-1.  Open the AirSend website at  [https://www.airsend.io](/#).
+1.  Open the AirSend website at  [https://www.airsend.io](https://www.airsend.io).
 2.  In the upper-right corner, click **SIGN UP**.  
     ![Sign Up Button](../assets/account/setting-up-an-airsend-account/sign-up-button.png)  
       
@@ -20,10 +20,10 @@ If you sign up using your email address, you will get an email to verify that yo
 
 -   Click the link in the email to verify your email address  
       
-    
-
+::: info
 If you don't get your verification email, please check your spam folder to see if your email provider has flagged it as spam.  
-If your email is not in the spam folder, and you are having difficulties, please contact us by sending an email to AirSend support at [airsend.support@codelathe.com](/#)
+If your email is not in the spam folder, and you are having difficulties, please contact us by sending an email to AirSend support at [airsend.support@codelathe.com](mailto:airsend.support@codelathe.com)
+:::
 
 ### 3\. Log in to AirSend
 

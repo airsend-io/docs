@@ -6,11 +6,11 @@ lang: en-US
 
 The only member of a channel who can close or delete it is the channel owner.  Members who can archive (export the data) of a channel are the owner, admins, and managers.
 
+::: info
 This page shows you how to close, reopen and delete channels from the channel icon in the desktop. You can also complete these actions from the channel sidebar which you can access from within any channel. See [Channel Sidebar: Finding Channels](/#) for help.
+:::
 
-  
-
-### Closing a channel
+## Closing a channel
 
 Closing a channel makes it inactive, but as the owner, you can reactivate it. You can either close a channel from the AirSend dashboard or within the channel from the Channel's settings. 
 
@@ -19,9 +19,7 @@ Closing a channel makes it inactive, but as the owner, you can reactivate it. Yo
 The channel disappears from the default AirSend channel view, **Show Active**. However, you can view it in **Show All** or **Show Closed** view. The lock icon on the channel indicates that it is closed.  
 ![](../assets/channels/closing-deleting-or-archiving-a-channel/as-close-channel.png)
 
-  
-
-### Reopening a channel
+## Reopening a channel
 
 You can reopen a closed channel if you are the channel owner.
 
@@ -43,7 +41,7 @@ The channel appears on the desktop.
     3.  Next to **Activate Channel**, click **Activate.  
         ![](../assets/channels/closing-deleting-or-archiving-a-channel/as-re-open.png)**
 
-### Archiving a channel
+## Archiving a channel
 
 Before you delete a channel or any time you want to back up its contents, archive it by clicking the **Export** button in the **Operations** tab of the **Channel** **settings** dialog box.
 
@@ -55,7 +53,7 @@ Before you delete a channel or any time you want to back up its contents, archiv
 3.  Click the **Export** button next to **Export channel data**.  
     The channel's contents are downloaded as a zip file that contains files storing messages, tasks, files, and wiki contents.
 
-### Deleting a channel
+## Deleting a channel
 
 The only member of a channel who can delete it is the owner. Deleting a channel permanently removes it from the system, and it cannot be reactivated.  Archive the channel (see above) before deleting it in case you need the contents later.
 

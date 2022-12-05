@@ -26,16 +26,13 @@ For best results, use the [AirSend desktop app](/apps/airsend-desktop-app) or th
 
 The dashboard is the workspace in AirSend where your channels for different clients, teams, and projects are located. It is the first page you see after logging in to AirSend. 
 
-## ![](./assets/about/as-dash-no-bold.png)
+![](./assets/about/as-dash-no-bold.png)
 
 ## What are channels?  
 
 Channels are the places where you collaborate with team members and clients by sharing messages, files, and actions​.
 
 ![](./assets/about/as-channel-no-bold.png)
-
-  
-  
 
 ## How can I collaborate in AirSend?
 

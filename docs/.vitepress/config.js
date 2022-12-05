@@ -8,7 +8,6 @@ export default defineConfig({
       logo: '/assets/airsend-icon.svg',
       socialLinks: [
          { icon: 'github', link: 'https://github.com/airsend-io' },
-
       ],
       nav: [
          { text: 'What is Airsend?', link: '/' },
@@ -31,11 +30,11 @@ export default defineConfig({
                   link:"/files-actions-and-wiki"
                },
                {
-                  text:"The AirSend - Email connection",
+                  text:"Email connection",
                   link:"/email"
                },
                {
-                  text:"Notifications in AirSend",
+                  text:"Notifications",
                   link:"/notifications"
                },
                {
@@ -47,7 +46,7 @@ export default defineConfig({
                   link:"/if-youre-the-owner"
                },
                {
-                  text:"Meeting in AirSend",
+                  text:"Meetings",
                   link:"/meetings"
                },
                {
@@ -63,20 +62,20 @@ export default defineConfig({
                   text:"Account",
                   items:[
                      {
-                        text:"Multiple Language Support",
-                        link:"/account/multiple-language-support"
-                     },
-                     {
-                        text:"Deleting Your Account",
-                        link:"/account/deleting-your-account"
-                     },
-                     {
                         text:"Setting up an AirSend account",
                         link:"/account/setting-up-an-airsend-account"
                      },
                      {
                         text:"Settings in AirSend",
                         link:"/account/settings-in-airsend"
+                     },
+                     {
+                        text:"Multiple Language Support",
+                        link:"/account/multiple-language-support"
+                     },
+                     {
+                        text:"Deleting Your Account",
+                        link:"/account/deleting-your-account"
                      }
                   ]
                },
@@ -109,12 +108,12 @@ export default defineConfig({
                         link:"/channels/inside-an-airsend-channel"
                      },
                      {
-                        text:"Closing, deleting, or archiving a channel",
-                        link:"/channels/closing-deleting-or-archiving-a-channel"
+                        text:"Public Channels",
+                        link:"/channels/public-channels"
                      },
                      {
-                        text:"AirSend Channels",
-                        link:"/channels/airsend-channels"
+                        text:"Closing, deleting, or archiving a channel",
+                        link:"/channels/closing-deleting-or-archiving-a-channel"
                      },
                      {
                         text:"Leaving an AirSend channel",
@@ -159,23 +158,23 @@ export default defineConfig({
                      }
                   ]
                },
-               {
-                  text:"Desktop and mobile apps",
-                  items:[
-                     {
-                        text:"AirSend desktop app",
-                        link:"/apps/airsend-desktop-app"
-                     },
-                     {
-                        text:"AirSend on iOS",
-                        link:"/apps/airsend-on-i-os"
-                     },
-                     {
-                        text:"AirSend on Android",
-                        link:"/apps/airsend-on-android"
-                     }
-                  ]
-               },
+               // {
+               //    text:"Desktop and mobile apps",
+               //    items:[
+               //       {
+               //          text:"AirSend desktop app",
+               //          link:"/apps/airsend-desktop-app"
+               //       },
+               //       {
+               //          text:"AirSend on iOS",
+               //          link:"/apps/airsend-on-i-os"
+               //       },
+               //       {
+               //          text:"AirSend on Android",
+               //          link:"/apps/airsend-on-android"
+               //       }
+               //    ]
+               // },
                {
                   text:"Files",
                   items:[

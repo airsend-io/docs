@@ -9,7 +9,11 @@ lang: en-US
 1.  Log in to the dashboard and click the **Create New Channel** icon.  
     ![](../assets/channels/creating-a-channel/as-new-channel.png)
     
+    ::: info Sidebar
+       
     You can also click the Create Channel button in the channel sidebar. See [Channel Sidebar: Finding Channels](/#).
+
+    :::
     
     A **Create a New Channel** dialog box opens.
     
@@ -26,9 +30,13 @@ lang: en-US
     1.  To add members directly to the channel, enter the names of existing AirSend users or the emails of potential users and click Enter.  
         Their names and/or emails appear below the text field.
         
-        Note: You can enter multiple people at a time by separating the names/emails with commas.
+    ::: info Note
+       
+     Note: You can enter multiple people at a time by separating the names/emails with commas.
+
+    :::
         
-        ![](../assets/channels/creating-a-channel/as-add-people.png)  
+    ![](../assets/channels/creating-a-channel/as-add-people.png)  
           
         
     2.  To generate a link to the channel, click **Create Link**.  
@@ -39,7 +47,3 @@ lang: en-US
 7.  Close the dialog box.  
     Your new channel appears similar to:  
     ![](../assets/channels/creating-a-channel/2021-02-24-15-h-54-59.png)  
-      
-    
-
-[Inside an AirSend channel](/channels/inside-an-airsend-channel)

@@ -90,8 +90,7 @@ OR
 
 1.  Click **Create channel**.  
     An **Add Members** dialog box opens.
-2.  Type any number of users' emails into **Add people to the channel  
-    **and/or  
+2.  Type any number of users' emails into **Add people to the channel** and/or  
     Click **Create Link** to create a link that you can copy and send to users who you want to give access to the channel. If you create a link for joining the channel, it becomes a public channel in AirSend. To make it a public team channel see [To make a channel a public team channel](/#), below.  
     ![](../assets/channels/teams-in-airsend/as-add-members.png)
 3.  Click **Add**.  
@@ -109,10 +108,9 @@ Copying a channel to create a new channel is useful if you want a channel with t
     ![](../assets/channels/teams-in-airsend/as-manage-team-click.png)  
       
     The **Team Settings** dialog box opens.
-2.  In the navigation panel, click **Channels,** then click **Add channel**.**  
+2.  In the navigation panel, click **Channels,** then click **Add channel**.  
     ![](../assets/channels/teams-in-airsend/as-add-channel.png)  
       
-    **
 3.  Click **Create New Channel**.  
     The **Create New Channel** dialog box opens.
 4.  Enter a **Channel name.**
@@ -172,10 +170,9 @@ After you create a team, the tab for the team is automatically selected.
     ![](../assets/channels/teams-in-airsend/as-manage-team.png)  
       
     The **Team Settings** dialog box opens.
-2.  Click **Members**, and then click **Invite User.  
+2.  Click **Members**, and then click **Invite User**.  
     ![](../assets/channels/teams-in-airsend/as-invite-user.png)  
       
-    **
 3.  In **Add people to the team**, enter emails or AirSend usernames of people to add to the channel.
 4.  To add users to team channels now, enter the channel names into **Automatically include users to channels**.  
     You may also add members to team channels later.  
@@ -198,9 +195,50 @@ This video shows you how:
 
 <video src="../assets/channels/teams-in-airsend/changing-team-settings-video.mp4" muted controls></video>
 
-<table><colgroup><col><col><col></colgroup><tbody><tr><th>Setting title</th><th>Settings&nbsp;</th><th>Notes</th></tr><tr><td><strong>Settings</strong></td><td><p><strong>Usage </strong>- Space used by team.</p><p><strong>Team Name </strong>- To change the team name, enter it here.</p><p><strong>Color Tags</strong> - Click a color to mark team channels with.&nbsp;</p><p><strong>Announcements - </strong>Enter text to display as an announcement on the team dashboard.</p></td><td><br></td></tr><tr><td><strong>Members</strong></td><td><p><strong>Possible actions&nbsp;</strong><br><strong>Invite user</strong> - Click to add users to the team. The users are not automatically added to team channels, but you may enter team channels to add the new users to.&nbsp;<br><strong>Change team role </strong>- If there is a down arrow next to the team role, you may choose a different role for the member.<br><strong>Remove User</strong> - Click <strong>x</strong> in the final column to remove the user from the team.<br>See <strong>Managing Members</strong>, below, for a video that shows you how to complete these operations.</p></td><td><br></td></tr><tr><td><strong>Channels</strong></td><td><p><strong>Possible actions&nbsp;<br>Manage channel members</strong> - Click this to access the same options listed for <strong>Members </strong>in the preceding row.<br><strong>Enable/Disable Public Team channel</strong> - Clicking <strong>Enable Public Team Channel</strong> allows any member of the team to join this channel. Clicking <strong>Disable Public Team Channel</strong> removes public status, and restricts membership to existing members and members added in the future by channel owners and admins.<br><strong>Transfer channel ownership</strong> - Click this and choose the member to transfer ownership to. A channel owner has all channel permissions and is the only member who can manage Admins and close or delete the channel.</p></td><td><br></td></tr><tr><td><strong>Public Team Channels</strong></td><td>Lists each public team channel with a link that opens the channel.&nbsp;</td><td><br></td></tr><tr><td><strong>Announcements</strong></td><td>Displays announcements entered in <strong>Settings</strong>.</td><td><br><br></td></tr></tbody></table>
+<table>
+  <colgroup>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <tbody>
+    <tr>
+      <th>Setting title</th>
+      <th>Settings&nbsp;</th>
+    </tr>
+    <tr>
+      <td><strong>Settings</strong></td>
+      <td>
+        <p><strong>Usage </strong>- Space used by team.</p>
+        <p><strong>Team Name </strong>- To change the team name, enter it here.</p>
+        <p><strong>Color Tags</strong> - Click a color to mark team channels with.&nbsp;</p>
+        <p><strong>Announcements - </strong>Enter text to display as an announcement on the team dashboard.</p>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Members</strong></td>
+      <td>
+        <p><strong>Possible actions&nbsp;</strong><br><strong>Invite user</strong> - Click to add users to the team. The users are not automatically added to team channels, but you may enter team channels to add the new users to.&nbsp;<br><strong>Change team role </strong>- If there is a down arrow next to the team role, you may choose a different role for the member.<br><strong>Remove User</strong> - Click <strong>x</strong> in the final column to remove the user from the team.<br>See <strong>Managing Members</strong>, below, for a video that shows you how to complete these operations.</p>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Channels</strong></td>
+      <td>
+        <p><strong>Possible actions&nbsp;<br>Manage channel members</strong> - Click this to access the same options listed for <strong>Members </strong>in the preceding row.<br><strong>Enable/Disable Public Team channel</strong> - Clicking <strong>Enable Public Team Channel</strong> allows any member of the team to join this channel. Clicking <strong>Disable Public Team Channel</strong> removes public status, and restricts membership to existing members and members added in the future by channel owners and admins.<br><strong>Transfer channel ownership</strong> - Click this and choose the member to transfer ownership to. A channel owner has all channel permissions and is the only member who can manage Admins and close or delete the channel.</p>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Public Team Channels</strong></td>
+      <td>Lists each public team channel with a link that opens the channel.&nbsp;</td>
+    </tr>
+    <tr>
+      <td><strong>Announcements</strong></td>
+      <td>Displays announcements entered in <strong>Settings</strong>.</td>
+    </tr>
+  </tbody>
+</table>
 
- Managing members
+## Managing members
 
 The following video shows you how to add a member to a team, change a member's role, and remove a member from a team.
 
