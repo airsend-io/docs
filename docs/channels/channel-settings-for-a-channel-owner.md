@@ -25,7 +25,7 @@ To view and configure channel settings, click the gear icon in the toolbar.
 
 *   **Allow users to see channel contents before joining** -  If you share the channel with users by sending them a link to the channel by default, they can join the channel by accessing it (and creating an AirSend account if they do not already have one). If you check this option, when new users enter the link , they see:
 
-**Allow users to join channel with a link** - This option enables you to publish a link that users can click to join the channel. Click **Create Link** to generate and view the link. Click **Copy Link** to copy it into a web page or other location. (A channel that users join by click a link is a  [Public channel](channels/public-channels)).
+**Allow users to join channel with a link** - This option enables you to publish a link that users can click to join the channel. Click **Create Link** to generate and view the link. Click **Copy Link** to copy it into a web page or other location. (A channel that users join by click a link is a  [Public channel](/channels/public-channels)).
 
 ![](../assets/channels/channel-settings-for-a-channel-owner/as-created-link.png)
 

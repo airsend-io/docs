@@ -14,7 +14,7 @@ If you share a channel by sending a link to potential users, you have the option
     
 2.  In the **Settings** window, in the **General** tab, under **Permissions**, check **Require approval before user joins channel via link**, and click **Save.  
     ![](../assets/members/approving-members/as-require-app.png)**
-3.  If you have not already created and copied the link when you [created the channel](/channels/airsend-channels), then you can do it now
+3.  If you have not already created and copied the link when you [created the channel](/channels), then you can do it now
     1.  Below the **Permissions** settings, click **Create Link**.  
         The link appears:  
         ![](../assets/members/approving-members/as-copy-link-3.png)
