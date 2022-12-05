@@ -3,6 +3,7 @@ export default defineConfig({
    lang: 'en-US',
    title: 'AirSend Docs',
    description: 'Instantly collaborate with anyone in seconds. Have conversations, voice and video calls, share files, manage tasks and keep notes in one space.',
+   // base: "/airsend-docs/",
    themeConfig: {
       logo: '/assets/airsend-icon.svg',
       socialLinks: [

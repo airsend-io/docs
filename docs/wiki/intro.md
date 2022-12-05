@@ -20,7 +20,7 @@ In the wiki, new content appears on top of the previous content without any form
   
 
 To access the wiki after you open a channel, click the Wiki tab in the right panel. Before anything is added to the wiki, it appears as:  
-![](../../assets/wiki/intro/as-wiki-symbols.png)
+![](../assets/wiki/intro/as-wiki-symbols.png)
 
 Channel members with contributor access or higher can add content to wikis in non-public channels; channel members with full contributor access or higher can add content to wikis in public channels. 
 
@@ -30,8 +30,8 @@ Channel members with contributor access or higher can add content to wikis in no
     An **Edit Wiki** page opens. It contains a panel displaying files in the channel, a panel for adding the wiki entry, and a panel for previewing the wiki entry (see the image below).
 2.  Enter text into the text editor in the center panel. A preview of the text appears in the right panel.
 3.  In the center panel, click **Publish**, and then close the wiki editor.  
-    ![](../../assets/wiki/intro/as-wiki-annotated.png)  
+    ![](../assets/wiki/intro/as-wiki-annotated.png)  
     The content appears in the wiki:  
-    ![](../../assets/wiki/intro/as-wiki-content.png)  
+    ![](../assets/wiki/intro/as-wiki-content.png)  
       
     Also see:

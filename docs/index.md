@@ -26,20 +26,20 @@ For best results, use the [AirSend desktop app](/apps/airsend-desktop-app) or th
 
 The dashboard is the workspace in AirSend where your channels for different clients, teams, and projects are located. It is the first page you see after logging in to AirSend. 
 
-## ![](../assets/about/as-dash-no-bold.png)
+## ![](./assets/about/as-dash-no-bold.png)
 
 ## What are channels?  
 
 Channels are the places where you collaborate with team members and clients by sharing messages, files, and actions​.
 
-![](../assets/about/as-channel-no-bold.png)
+![](./assets/about/as-channel-no-bold.png)
 
   
   
 
 ## How can I collaborate in AirSend?
 
-<table><tbody><tr><td><div><h4><a href="/members/adding-more-members-to-a-channel">Add members</a><br><span><img src="../assets/about/as-add-members.png"></span></h4></div></td><td><div><strong><a href="/messages/messaging-inside-an-airsend-channel">Send messages</a><br></strong><span><img src="../assets/about/as-chat.png"></span></div></td></tr><tr><td><div><h4><a href="/files/intro">Share files</a></h4><span><img src="../assets/about/as-share-files-812.png"></span></div></td><td><div><h4><a href="/actions/intro">Add tasks and reminders</a></h4><span><img src="../assets/about/as-actions-2.png"></span></div></td></tr></tbody></table>
+<table><tbody><tr><td><div><h4><a href="/members/adding-more-members-to-a-channel">Add members</a><br><span><img src="./assets/about/as-add-members.png"></span></h4></div></td><td><div><strong><a href="/messages/messaging-inside-an-airsend-channel">Send messages</a><br></strong><span><img src="./assets/about/as-chat.png"></span></div></td></tr><tr><td><div><h4><a href="/files/intro">Share files</a></h4><span><img src="./assets/about/as-share-files-812.png"></span></div></td><td><div><h4><a href="/actions/intro">Add tasks and reminders</a></h4><span><img src="./assets/about/as-actions-2.png"></span></div></td></tr></tbody></table>
 
 ## What else can I do in AirSend?
 

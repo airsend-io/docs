@@ -18,4 +18,4 @@ When you search in the dashboard, you find matching content in all channels; whe
 
 As you type into the search box, AirSend displays up to three matches per category under the search box. To see all matches, click **Enter** or click **Show All** for one of the search categories.
 
-![](../../assets/using-airsend/search-in-airsend/as-search-video.gif)
+![](../assets/using-airsend/search-in-airsend/as-search-video.gif)

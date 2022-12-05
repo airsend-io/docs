@@ -14,12 +14,12 @@ By default, when you add members to channels, they are [full collaborators](/me
 
 To promote a member, click the members icon and change the member's type in the drop-down list:
 
-![](../assets/if-youre-the-owner/as-change-member-anim-gif.gif)
+![](./assets/if-youre-the-owner/as-change-member-anim-gif.gif)
 
 ## Remove members
 
 Owners, admins, and managers can also remove members from a channel.  
-![](../assets/if-youre-the-owner/as-delete.png)
+![](./assets/if-youre-the-owner/as-delete.png)
 
 ## Customize the channel
 
@@ -29,4 +29,4 @@ If you're the owner, manager, or admin in a channel, you can customize it by add
 
 If you're the owner of a channel, you have the ability to close it. Closing a channel suspends it; it is still present and you can reactivate it, but it only appears when **Channels** is set to **Show closed** or **Show all**.
 
-![](../assets/if-youre-the-owner/as-close-channel-anim-gif.gif)
+![](./assets/if-youre-the-owner/as-close-channel-anim-gif.gif)

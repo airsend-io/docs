@@ -7,14 +7,14 @@ lang: en-US
 ### To create a channel
 
 1.  Log in to the dashboard and click the **Create New Channel** icon.  
-    ![](../../assets/channels/creating-a-channel/as-new-channel.png)
+    ![](../assets/channels/creating-a-channel/as-new-channel.png)
     
-    You can also click the Create Channel button in the channel sidebar. See [Channel Sidebar: Finding Channels](/$replace).
+    You can also click the Create Channel button in the channel sidebar. See [Channel Sidebar: Finding Channels](/#).
     
     A **Create a New Channel** dialog box opens.
     
 2.  In **Channel name** enter a name that makes it easy to identify the channel, such as a subject, a client name, or a transaction name. This field is required. In the example, the client's name is entered.  
-    ![](../../assets/channels/creating-a-channel/as-new-channel-name.png)  
+    ![](../assets/channels/creating-a-channel/as-new-channel-name.png)  
       
     
 3.  To  enter a description for the channel or copy the format of an existing channel, click **Advanced**.
@@ -28,17 +28,17 @@ lang: en-US
         
         Note: You can enter multiple people at a time by separating the names/emails with commas.
         
-        ![](../../assets/channels/creating-a-channel/as-add-people.png)  
+        ![](../assets/channels/creating-a-channel/as-add-people.png)  
           
         
     2.  To generate a link to the channel, click **Create Link**.  
         A link appears. Click **Copy Link** so you can paste the link into a site or send it by email to potential channel members.  
-        ![](../../assets/channels/creating-a-channel/as-generate-link.png)  
+        ![](../assets/channels/creating-a-channel/as-generate-link.png)  
           
         
 7.  Close the dialog box.  
     Your new channel appears similar to:  
-    ![](../../assets/channels/creating-a-channel/2021-02-24-15-h-54-59.png)  
+    ![](../assets/channels/creating-a-channel/2021-02-24-15-h-54-59.png)  
       
     
 

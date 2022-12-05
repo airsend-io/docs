@@ -14,4 +14,4 @@ lang: en-US
     The file appears in the same box as the message.  
     It also appears in the Files tab.  
       
-    ![](../../assets/files/add-a-file-to-a-message/as-drop-file-anim-gif.gif)
+    ![](../assets/files/add-a-file-to-a-message/as-drop-file-anim-gif.gif)
