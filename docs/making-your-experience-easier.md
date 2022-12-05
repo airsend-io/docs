@@ -46,13 +46,11 @@ Click a channel's More (3 dot) icon and choose **Pin Channel** to make it a favo
 You can also create your own channel groups which appear at the top of the list. Just click the **Create Group** button, name the group, and drag and drop channels into it.   
 ![Create a Group](./assets/making-your-experience-easier/create-a-group.gif)
 
-For additional ways you can make it easier to locate the channel you're looking for, see [Channel Sidebar: Finding Channels](/#).
-
-  
+For additional ways you can make it easier to locate the channel you're looking for, see [Channel Sidebar: Finding Channels](/channels/sidebar).
 
 ## Task organization with the Kanban Board
 
 You can view all your tasks and subtasks at once, combine, separate, and rearrange them in the Kanban board.  
 ![](./assets/making-your-experience-easier/kanban-anim-gif.gif)
 
-To learn more about the Kanban Board, see [Actions in the Kanban Board](/#).
+To learn more about the Kanban Board, see [Actions in the Kanban Board](/actions/kanban).

@@ -11,7 +11,7 @@ lang: en-US
     
     ::: info Sidebar
        
-    You can also click the Create Channel button in the channel sidebar. See [Channel Sidebar: Finding Channels](/#).
+    You can also click the Create Channel button in the channel sidebar. See [Channel Sidebar: Finding Channels](/channels/sidebar).
 
     :::
     

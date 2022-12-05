@@ -91,7 +91,7 @@ OR
 1.  Click **Create channel**.  
     An **Add Members** dialog box opens.
 2.  Type any number of users' emails into **Add people to the channel** and/or  
-    Click **Create Link** to create a link that you can copy and send to users who you want to give access to the channel. If you create a link for joining the channel, it becomes a public channel in AirSend. To make it a public team channel see [To make a channel a public team channel](/#), below.  
+    Click **Create Link** to create a link that you can copy and send to users who you want to give access to the channel. If you create a link for joining the channel, it becomes a public channel in AirSend. To make it a public team channel see [To make a channel a public team channel](/channels/public-channel), below.  
     ![](../assets/channels/teams-in-airsend/as-add-members.png)
 3.  Click **Add**.  
     The channel is created and opens like any other channel that you create in AirSend:  
@@ -121,7 +121,7 @@ Copying a channel to create a new channel is useful if you want a channel with t
 7.  Click **Create Channel**.  
     A **Share your channel** dialog box opens.
 8.  Enter emails to add users to the channel and/or copy the channel link to send to users to invite them to become members.  
-    By creating the link, you make it a public AirSend channel. To make it a public team channel, see [To make a channel a public team channel](/#), below.
+    By creating the link, you make it a public AirSend channel. To make it a public team channel, see [To make a channel a public team channel](/channels/public-channels), below.
 9.  Click **Add** to create the channel and open it.   
     The channel is now visible in the channel dashboard and the main dashboard of AirSend.
 

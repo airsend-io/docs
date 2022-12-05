@@ -7,7 +7,7 @@ lang: en-US
 The only member of a channel who can close or delete it is the channel owner.  Members who can archive (export the data) of a channel are the owner, admins, and managers.
 
 ::: info
-This page shows you how to close, reopen and delete channels from the channel icon in the desktop. You can also complete these actions from the channel sidebar which you can access from within any channel. See [Channel Sidebar: Finding Channels](/#) for help.
+This page shows you how to close, reopen and delete channels from the channel icon in the desktop. You can also complete these actions from the channel sidebar which you can access from within any channel. See [Channel Sidebar: Finding Channels](/channels/sidebar) for help.
 :::
 
 ## Closing a channel

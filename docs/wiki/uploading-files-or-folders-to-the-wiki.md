@@ -8,7 +8,7 @@ To insert an image or file link into a page in a wiki, you must first upload the
 
 **To upload a file or folder into the wiki:**
 
-1.  [Open the wiki editor](/#)   
+1.  [Open the wiki editor](/wiki/intro)   
     
 2.  Drag and drop a file or folder onto the Files panel, or click the **Upload a file** button and upload a file or folder.  
     ![](../assets/wiki/uploading-files-or-folders-to-the-wiki/add-file-to-wiki.png)  

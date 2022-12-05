@@ -68,10 +68,6 @@ To access the user menu, click the user name in the upper-right corner of the Ai
       </td>
     </tr>
     <tr>
-      <td><strong>Contact support</strong></td>
-      <td>Click to open the <a href="/#"><strong>AirSend Contact Support</strong> page</a>. From here, you can send an email to our support team, join our feedback channel, and access training videos.</td>
-    </tr>
-    <tr>
       <td><strong>About</strong></td>
       <td>Click to view the latest versions and to access release notes.</td>
     </tr>

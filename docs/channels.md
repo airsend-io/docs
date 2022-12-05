@@ -50,7 +50,7 @@ When you are working within a channel in AirSend, all other channels that you ha
   
 ![](./assets/channels/switching-channels.gif)   
   
-The channel sidebar enables you to organize your channels so you can find them easily. See [Channel Sidebar: Finding Channels](/#) for help.
+The channel sidebar enables you to organize your channels so you can find them easily. See [Channel Sidebar: Finding Channels](/channels/sidebar) for help.
 
 ::: tip Member Types
 

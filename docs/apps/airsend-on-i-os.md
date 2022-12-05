@@ -29,7 +29,7 @@ For help installing and logging in to AirSend from your phone and finding featur
 
 ### **Navigation panel**
 
-<table><colgroup><col><col></colgroup><tbody><tr><td><div><p><span><img src="../assets/apps/airsend-on-i-os/a-si-os-my-20-profile-2.png"></span></p></div></td><td><p>You can access different views of the iOS AirSend app from the navigation panel.&nbsp;<span>&nbsp;</span><strong>Channels</strong><span>&nbsp;</span>view is described above under&nbsp;<a href="/#">Using the IOS dashboard</a>.&nbsp;</p><ul><li>For information about Files view, see <a href="/#">View a channel's files in the iOS app</a>, below.</li><li>For information about Notifications view, see information about the Alerts icon in&nbsp;<a href="/notifications">Notifications in AirSend</a>.</li></ul></td></tr></tbody></table>
+<table><colgroup><col><col></colgroup><tbody><tr><td><div><p><span><img src="../assets/apps/airsend-on-i-os/a-si-os-my-20-profile-2.png"></span></p></div></td><td><p>You can access different views of the iOS AirSend app from the navigation panel.&nbsp;<span>&nbsp;</span><strong>Channels</strong><span>&nbsp;</span>view is described above under&nbsp;<a href="/#">Using the IOS dashboard</a>.&nbsp;</p><ul><li>For information about Files view, see <a href="/files/intro">View a channel's files in the iOS app</a>, below.</li><li>For information about Notifications view, see information about the Alerts icon in&nbsp;<a href="/notifications">Notifications in AirSend</a>.</li></ul></td></tr></tbody></table>
 
 ### **Viewing a channel's messages in the iOS app**
 

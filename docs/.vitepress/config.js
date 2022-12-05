@@ -121,6 +121,10 @@ export default defineConfig({
                      {
                         text:"Reopening a closed channel",
                         link:"/channels/reopening-a-closed-channel"
+                     },
+                     {
+                        text:"Sidebar: Finding Channels",
+                        link:"/channels/sidebar"
                      }
                   ]
                },
@@ -188,6 +192,10 @@ export default defineConfig({
                      {
                         text:"Creating actions from messages",
                         link:"/actions/creating-actions-from-messages"
+                     },
+                     {
+                        text:"Kanban Board",
+                        link:"/actions/kanban"
                      }
                   ]
                },

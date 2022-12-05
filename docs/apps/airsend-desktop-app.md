@@ -6,7 +6,7 @@ lang: en-US
 
 Using the AirSend desktop app gives you the option of configuring AirSend as a startup application as well as the ability to run AirSend in the background while receiving native system notifications.
 
-You can access the download link either at [AirSend.io](/#) or from the online version in the  
+You can access the download link either at [AirSend.io](https://airsend.io) or from the online version in the  
 drop-down list next to your username.
 
 ![Desktop App Download Link](../assets/apps/airsend-desktop-app/desktop-app-download-link.png)  

@@ -8,7 +8,7 @@ You can add a link to a file in a wiki page. The file must first be stored in th
 
 **To add the link using the image icon:**
 
-1.  [Open the wiki editor](/#)
+1.  [Open the wiki editor](/wiki/intro)
 2.  In the center panel, click the spot where you want to insert the link, and then click the link icon.  
     ![Insert File Link in Wiki](../assets/wiki/adding-a-link-to-a-file-in-a-wiki-page/insert-file-link-in-wiki.png)  
       

@@ -6,7 +6,7 @@ lang: en-US
 
 **To add an additional wiki page:**
 
-1.  [Open the wiki editor](/wiki/intro)[.](/#)  
+1.  [Open the wiki editor](/wiki/intro).
     
 2.  In the Files panel on the left of the Wiki editor, click the **Create a page** button.  
     ![Create a page button](../assets/wiki/adding-additional-pages-to-the-wiki/create-a-page-button.png)  

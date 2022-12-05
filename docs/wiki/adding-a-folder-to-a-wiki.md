@@ -8,7 +8,7 @@ AirSend lets you create new folders during wiki editing so you can store wiki fi
 
 **To create a new folder:**
 
-1.  [Open the wiki editor](/wiki/intro)[.](/#)  
+1.  [Open the wiki editor](/wiki/intro).  
     
 2.  In the Files panel on the left of the Wiki editor, click the **Create a folder** button.  
     ![Add folder button for wiki](../assets/wiki/adding-a-folder-to-a-wiki/add-folder-button-for-wiki.png)
