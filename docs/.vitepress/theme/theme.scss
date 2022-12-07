@@ -27,9 +27,12 @@ body {
 }
 
 .VPNavBarTitle {
+  .title {
+    font-size: 0;
+  }
   img.logo {
-    width:2.5rem;
-    height:2.5rem;
+    width:auto;
+    height:3.5rem;
     border:none;
   }
 }

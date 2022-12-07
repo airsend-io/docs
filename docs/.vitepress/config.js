@@ -3,15 +3,15 @@ export default defineConfig({
    lang: 'en-US',
    title: 'AirSend Docs',
    description: 'Instantly collaborate with anyone in seconds. Have conversations, voice and video calls, share files, manage tasks and keep notes in one space.',
-   // base: "/airsend-docs/",
+   // base: "/new-docs/",
    themeConfig: {
-      logo: '/assets/airsend-icon.svg',
+      logo: '/airsend-docs.svg',
       socialLinks: [
          { icon: 'github', link: 'https://github.com/airsend-io' },
       ],
       nav: [
          { text: 'What is Airsend?', link: '/' },
-         { text: 'Developers', link: '/developers' },
+         { text: 'Developers', link: '/developers/intro' },
       ],
       sidebar: [
          {
@@ -362,6 +362,33 @@ export default defineConfig({
                //    ]
                // },
             ]
+         },
+         {
+            text: 'Developers',
+            items: [
+               {
+                  text:"Open Source",
+                  link:"developers/intro"
+               },
+               {
+                  text: 'API',
+                  items: [
+                     {
+                        text:"Getting Started",
+                        link:"developers/api/getting-started"
+                     },
+                  ],
+               },
+               {
+                  text: 'UI',
+                  items: [
+                     {
+                        text:"Getting Started",
+                        link:"developers/ui/getting-started"
+                     },
+                  ],
+               },
+            ],
          },
       ],
    },
