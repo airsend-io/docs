@@ -186,8 +186,16 @@ export default defineConfig({
                         link:"/actions/intro"
                      },
                      {
+                        text: "Action-Related Messages",
+                        link:"/actions/messages"
+                     },
+                     {
                         text:"Processing actions in a channel",
                         link:"/actions/processing-actions-in-a-channel"
+                     },
+                     {
+                        text: "Viewing, Searching, and Sorting in the Action Tab",
+                        link:"/actions/viewing-searching-sorting"
                      },
                      {
                         text:"Creating actions from messages",
@@ -205,6 +213,10 @@ export default defineConfig({
                      {
                         text:"Files in AirSend",
                         link:"/files/intro"
+                     },
+                     {
+                        text:"Files and Links Tab",
+                        link:"/files/files-and-links"
                      },
                      {
                         text:"Creating a Folder Structure in the Files Tab",

@@ -16,7 +16,7 @@ If you share a channel by sending a link to potential users, you have the option
     ![](../assets/members/approving-members/as-require-app.png)**
 3.  If you have not already created and copied the link when you [created the channel](/channels), then you can do it now
     1.  Below the **Permissions** settings, click **Create Link**.  
-        The link appears:  
+        The link appears:
         ![](../assets/members/approving-members/as-copy-link-3.png)
     2.  Click **Copy Link**.
 4.  Paste the link into an email and send it to potential users, or post it on a web page.
@@ -24,7 +24,6 @@ If you share a channel by sending a link to potential users, you have the option
 ### When users click the channel link
 
 When users who want to join the channel click the link, the screen displays:  
-  
   
 When a user clicks **Ask to join channel**, the owner of the channel sees an alert on the members icon:  
 ![](../assets/members/approving-members/as-join-alert.png)  
