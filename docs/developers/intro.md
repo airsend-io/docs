@@ -13,3 +13,5 @@ AirSend service reached End of Life (Dec 31, 2022) and it's now open source, tha
 We want our contributors to be as much free as possible, that's why we have chosen the **MIT License**, which express permission to reuse code for any purpose, including making any changes or modifications to the code to suit your own needs.
 
 ## How can I contribute?
+
+To contribute, open a pull request with your changes explaining what are you fixing or implement, and how would that impact the application.
